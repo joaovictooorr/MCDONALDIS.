@@ -1,1 +1,1 @@
-Sistema de lanchonete, do qual pede ao usúario para escolher entre as opções e no final retorna todos os itens escolhidos com o valor de todos os itens somados.
+Sistema de lanchonete, do qual pede ao usúario para escolher entre as opções e no final retorna todos os itens escolhidos com o valor de todos os itens somados. Não é uma API, é apenas um estudo sobre como funciona as funções e retornos, looping e bibliotecas em python
